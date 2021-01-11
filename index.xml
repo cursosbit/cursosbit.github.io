@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pranita Sharma on Pranita Sharma</title>
+    <link>https://pranita-s.github.io/</link>
+    <description>Recent content in Pranita Sharma on Pranita Sharma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Culmination of GSoC</title>
+      <link>https://pranita-s.github.io/post/final_results/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://pranita-s.github.io/post/final_results/</guid>
+      <description>
+
+&lt;p&gt;With GSoC coming to an end, I would like to summarize the work that has been completed. The proposal I wrote for the project was on the track with the ideas list which was mentioned for the same, augmented with few ideas of my own. I time required for the accomplishment of the tasks mentioned in ideas list was extended due to extensive testing in different systems and configurations to find solutions.&lt;/p&gt;
+
+&lt;p&gt;The tasks accomplished during the GSoC journey are for two projects:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;rdataretriever&lt;/strong&gt; - It contains the core code of the R package. As reflected by the &lt;a href=&#34;https://github.com/weecology/retriever/wiki/GSoC-2018-Project-Ideas&#34; target=&#34;_blank&#34;&gt;GSoC ideas list&lt;/a&gt; for this project, the new code encompasses all the points mentioned. The R package is at par with Python package now and the Python path detection problem has been resolved.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;retriever&lt;/strong&gt; - It contains the documentation for the updated code of the R package. It has been equipped with the crucial examples and detailed explanation for the same.
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The work completed are reflected by the following URLs. I have divided them, first according to projects and then subdivided into commits and PRs.&lt;/p&gt;
+
+&lt;h2 id=&#34;retriever&#34;&gt;retriever&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/weecology/retriever/issues?utf8=%E2%9C%93&amp;amp;q=pranita+&#34; target=&#34;_blank&#34;&gt;Issues List&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/weecology/retriever/pulls?utf8=%E2%9C%93&amp;amp;q=pranita&#34; target=&#34;_blank&#34;&gt;Pull Requests&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/weecology/retriever/commits?author=pranita-s&#34; target=&#34;_blank&#34;&gt;Merged Commits&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;rdataretriever&#34;&gt;rdataretriever&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ropensci/rdataretriever/issues?utf8=%E2%9C%93&amp;amp;q=pranita&#34; target=&#34;_blank&#34;&gt;Issues List&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ropensci/rdataretriever/pulls?utf8=%E2%9C%93&amp;amp;q=pranita&#34; target=&#34;_blank&#34;&gt;Pull Requests&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ropensci/rdataretriever/commits?author=pranita-s&#34; target=&#34;_blank&#34;&gt;Merged Commits&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The work on passing Travis CI testing is still in progress. I require more time to make it error-proof and hence I will continue my work on it and finish it in near future.&lt;/p&gt;
+
+&lt;p&gt;With the end of this journey, I have gained substantial knowledge about working in Open Source Community, GitHub, R packages, Travis testing, dealing with different environments and last but not the least, a better coder.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Every end is a new beginning</title>
+      <link>https://pranita-s.github.io/post/final/</link>
+      <pubDate>Wed, 08 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://pranita-s.github.io/post/final/</guid>
+      <description>&lt;p&gt;Standing in the position of being in final evaluation is surreal.&lt;/p&gt;
+
+&lt;p&gt;The journey for GSoC started in January 2018, when I came to know about it but did not know where to start. I spent roughly 3 weeks trying to figure out how to select organizations, being in different mailing lists and slack groups, trying my best to comprehend how can I keep up with the students who are well ahead of me in understanding Open Source Community and projects.&lt;/p&gt;
+
+&lt;p&gt;In February 2018, I selected a project in Python and tried to blend in the community. This went on for a month, but I could not develop passion for the project and could not do any tangible work. I started to feel that GSoC was not for me, as I was not getting enough guidance which I needed to taste the waters. I was on the brink of giving up, but in the end of first week of March 2018, I found NumFOCUS and its projects in R and Python, which are my favorites. The amazing community gave me motivation to go on and give a successful try to GSoC selection.&lt;/p&gt;
+
+&lt;p&gt;The points mentioned in the ideas list for &lt;strong&gt;rdataretriever&lt;/strong&gt;, have been covered. The &lt;strong&gt;Reticulate&lt;/strong&gt; based functions are working on different operating systems, the documentation for the new functions have been updated, the PATH problems for Python and &lt;strong&gt;retriever&lt;/strong&gt; have been resolved. I was stuck with personal problems in the last few weeks of GSoC and therefore due to the incomplete final stages of testing the merging has not yet been done.&lt;/p&gt;
+
+&lt;p&gt;Google Summer of Code has been one of a kind experience for me. The excitement of trying out new things, pursuit of new solutions and the never ending enthusiasm from the mentors are unparalleled. After the GSoC ends officially, I will continue working on the testing part of the new codes for successful integration of the work done during GSoC to reflect in the official &lt;strong&gt;rdataretriever&lt;/strong&gt; package.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Survive the (Travis) test of time</title>
+      <link>https://pranita-s.github.io/post/test/</link>
+      <pubDate>Mon, 30 Jul 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://pranita-s.github.io/post/test/</guid>
+      <description>&lt;p&gt;The &lt;strong&gt;rdataretriever&lt;/strong&gt; project not only exposed me to systematic coding, but it also introduced me to Testing and Travis. I learned how to deal with Travis environment and its different and weird behaviour when it comes to intrepreting paths. In the beginning, it was little overwhelming because all I could see was &amp;ldquo;red crosses&amp;rdquo; on my dashboard with occassional &amp;ldquo;green&amp;rdquo; ones (Breathing a sigh of relief) after consistent updates to the config file in the hopes that it will pass.&lt;/p&gt;
+
+&lt;p&gt;Continuous integration for packages is a whole new world and very important as it is crucial to know what a single line of updated/changed code could do to your work. I say it as a whole new world, because manual testing is very different. Testing for &lt;strong&gt;rdataretriever&lt;/strong&gt; with &lt;strong&gt;reticulate&lt;/strong&gt; is a myraid scenario due to considerations of different OS, different R platforms, virtual / non-virtual environments. Within these combinations, the interpreration of paths change too.&lt;/p&gt;
+
+&lt;p&gt;Therefore, if any error is encountered it has to be checked in system each having a different permutation, which involves cleaning up the system, setting the databases, environments etc. again and then moving on with the testing.
+Dealing with Travis requires a different perspective and deep understanding about its configuration files and the manner it interprets the commands.&lt;/p&gt;
+
+&lt;p&gt;Currently, after mentioning explicitly lines for using &lt;strong&gt;testthat&lt;/strong&gt;, the test cases are passing. But ideally,it is expected of Travis to run the test for particular package without explicitly mentioning it. In this case, it is having a little trouble with finding &lt;strong&gt;DBI&lt;/strong&gt; package. The root of the cause might be different, that is, it might not be occurring just because of interpreation of paths, but resolving it is still in progress.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Out with the old, in with the new</title>
+      <link>https://pranita-s.github.io/post/python_versions/</link>
+      <pubDate>Wed, 11 Jul 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://pranita-s.github.io/post/python_versions/</guid>
+      <description>&lt;p&gt;The migration of Python from 2 to 3 has given some unprecedented troubles to Python developers. There are variety of differences between the two, and the biggest pain is the fact that new packages and bundles do not really have a great support to Python 2. To add to the despair, the errors encountered are the not the true reflection of the trouble going on inside the actual code.&lt;/p&gt;
+
+&lt;p&gt;After being certain with the &lt;strong&gt;Reticulate&lt;/strong&gt; and its application in writing the new &lt;strong&gt;rdataretriever&lt;/strong&gt; functions, I faced an absolute shock when the test where failing in Windows 10 machine with Python 2.7. It ate up almost 15 days, because I was trying to find the root of the trouble at the wrong places.&lt;/p&gt;
+
+&lt;p&gt;My first instinct was the difference in operating system. The first time I tried running &lt;strong&gt;Reticulate&lt;/strong&gt; was on Windows 8 machine, and as it is very well known that Windows 10 has a few weak links when it comes to developing and is not an operating system that can be relied on when it comes to creating new stuff.&lt;/p&gt;
+
+&lt;p&gt;But since, working on &lt;strong&gt;rdataretriever&lt;/strong&gt; with &lt;strong&gt;Reticulate&lt;/strong&gt; includes trying and testing on various permutation of different OS, virtual and normal environments, RStudio and R terminal, the pursuit of root cause becomes very difficult and time consuming. Therefore, I was trying to find a pattern in the system permutation, but it was nowhere to be found.&lt;/p&gt;
+
+&lt;p&gt;I had prepared my mind, to accept that the work done with &lt;strong&gt;Reticulate&lt;/strong&gt; would need to be terminated and new code will be required to be written to make things work lucidly. After, confronting the situation to my mentor, he suggested to notice the difference with Python versions (which I never took into consideration) and test again. And Voila ! it worked. I realised the difference between the &amp;ldquo;old&amp;rdquo; and the &amp;ldquo;new&amp;rdquo; the hard way, but henceforth, I will develop the new codes in Python 3.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Peculiar Case of Environments</title>
+      <link>https://pranita-s.github.io/post/envs/</link>
+      <pubDate>Sun, 08 Jul 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://pranita-s.github.io/post/envs/</guid>
+      <description>
+
+&lt;p&gt;After in depth analysis and various permutations of testing environments, we figured out that in the journey to code &lt;strong&gt;check_retriever()&lt;/strong&gt; function for &lt;strong&gt;rdataretriever&lt;/strong&gt; package, the most difficult hurdle to overcome is not different operating systems (Linux, Windows, MacOS). Its actually the existance of different virtual environments in the system.&lt;/p&gt;
+
+&lt;p&gt;When there are more than one virtual environments in the system, a whole new spectrum of possibilities come into picture:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The user might have &lt;strong&gt;Retriever&lt;/strong&gt; installed in any one of the environments&lt;/li&gt;
+&lt;li&gt;While executing &lt;strong&gt;R&lt;/strong&gt; code, it might be possible that the execution and existence of &lt;strong&gt;Retriever&lt;/strong&gt; package are in different environments.&lt;/li&gt;
+&lt;li&gt;Or, both of them are in same environment.&lt;/li&gt;
+&lt;li&gt;It might be also possible that the user is executing &lt;strong&gt;R&lt;/strong&gt; in a normal system environment and the package is present in a virtual environment.&lt;/li&gt;
+&lt;li&gt;Over all these likelihoods, the user could be executing &lt;strong&gt;R&lt;/strong&gt; code through the &lt;strong&gt;R terminal&lt;/strong&gt; or &lt;strong&gt;RStudio&lt;/strong&gt;. This is one of the uncertainties that bug &lt;strong&gt;R&lt;/strong&gt; users the most. The reason being, the way &lt;strong&gt;R&lt;/strong&gt; finds and interprets paths in the systems, is completely different for terminal and IDE. Terminal uses system variables and &lt;strong&gt;RStudio&lt;/strong&gt; uses its own variables, which are entirely different.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;approaches-that-did-not-work&#34;&gt;Approaches that did not work&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;The very first was using system terminal commands such as &lt;strong&gt;which&lt;/strong&gt; in Linux based OS and &lt;strong&gt;where&lt;/strong&gt; in Windows, but it appeared to be a inept way to solve the issue as it did not really work for Mac OS. Also, the terminal and IDE execution produced different outputs in terms of paths.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;The next solution was leveraging the capabilities of the functions of &lt;strong&gt;Reticulate&lt;/strong&gt;. It has a amazing function &lt;strong&gt;py_config()&lt;/strong&gt; which tracks all the &lt;strong&gt;Python&lt;/strong&gt; version in the system and identifies their path. The approach was to use these paths, and append them to the &lt;strong&gt;Sys.getenv(&amp;lsquo;PATH&amp;rsquo;)&lt;/strong&gt; variable. After this &lt;strong&gt;R&lt;/strong&gt; can try to find &lt;strong&gt;Retriever&lt;/strong&gt; in these locations using &lt;strong&gt;Sys.which()&lt;/strong&gt;. Assuming that &lt;strong&gt;py_config()&lt;/strong&gt; is able to track down all the &lt;strong&gt;Python&lt;/strong&gt; versions, this approach seemed bullet-proof, because if &lt;strong&gt;Retriever&lt;/strong&gt; is not found in any of the paths appended, then it surely does not exist in the system.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The problem was the assumption that &lt;strong&gt;py_config()&lt;/strong&gt; is able to search all the &lt;strong&gt;Python&lt;/strong&gt; versions in the system. In reality, it did not. And the culprit is the existence of multiple virtual environments. The function cannot find &lt;strong&gt;Retriever&lt;/strong&gt; is present in any of the environments except the current.&lt;/p&gt;
+
+&lt;h2 id=&#34;approach-implemented&#34;&gt;Approach Implemented&lt;/h2&gt;
+
+&lt;p&gt;The bottom-line conclusion of all the failures encountered while trying to come out with an invincible function which can track &lt;strong&gt;Retriever&lt;/strong&gt; in the system no matter what is the permutation of OS, virtual environment, Python installation, IDE/Terminal etc., is giving the user the flexibility of feeding in the required path to the &lt;strong&gt;rdataretriever&lt;/strong&gt; package of &lt;strong&gt;R&lt;/strong&gt;. This is done by a new function &lt;strong&gt;use_RetrieverPath()&lt;/strong&gt; which takes in the path and appends it to the &lt;strong&gt;PATH&lt;/strong&gt; variable. This works with terminal/IDE and different operating systems. The important factor is, even if the the user is not present in the same environment as the &lt;strong&gt;Retriever&lt;/strong&gt;, it can still access it from a different environment if its path is already known.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pursuit of Python</title>
+      <link>https://pranita-s.github.io/post/searchpython/</link>
+      <pubDate>Mon, 11 Jun 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://pranita-s.github.io/post/searchpython/</guid>
+      <description>
+
+&lt;p&gt;Pursuit of Reticulate package in Windows is tricky than searching its installation in Ubuntu/Mac. Windows operating system has disintegrated structure for file storage. It also has different drives such as C,D etc. which can be the home for software installation. Over this layer of complicated file structure comes the different ways in which Python can be installed in the Windows OS. It can be a manual installation of &lt;strong&gt;python.exe&lt;/strong&gt; or through frameworks such as &lt;strong&gt;Miniconda&lt;/strong&gt;, &lt;strong&gt;Anaconda&lt;/strong&gt;. This overlaying complications make the location of Python and its containing packages very unpredictable. Also, the search should be successful if the code in executed from the terminal or within IDE such as RStudio. I tried my best to go through proper research before writing my code for this convoluted &lt;strong&gt;pursuit&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;literature-survey&#34;&gt;Literature Survey&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;The current code for checking Reticulate installation in Windows adds all predicatable paths in which Python could have been installed taking into consideration manual as well as platform based installations. Then, these are added to the RStudio&amp;rsquo;s environment PATH so that RStudio can locate &lt;strong&gt;Reticulate&lt;/strong&gt;. The underlying disadvantage with this approach is the fact that, we cannot predict all the paths where Python could have been installed. During manual installation of Python, it could have been possible that the user gave its custom created directory as its location. This path, cannot be predicted for adding in the list of possible paths. Therefore, a more robust and flexibe approach is needed for this intricate pursuit.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;PythonInR&lt;/strong&gt; is a R package which allows the user to interact with Python from R environment. I studied its source code to understand how it is locating Python as its crucial step for the successfull package working. It has a function named &lt;strong&gt;autodetectPython.R&lt;/strong&gt; which accomplishes this task. It tries to locate Python using &lt;strong&gt;where&lt;/strong&gt; command in the terminal then filter the searches according to the &amp;ldquo;arch&amp;rdquo; of R version. Henceforth, it tries of locate dll file of Python for final connection&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;approach-implemented&#34;&gt;Approach Implemented&lt;/h2&gt;
+
+&lt;p&gt;The proposal I wrote for solving this problem used a command called &lt;strong&gt;which&lt;/strong&gt; from the terminal. I tried to emulate the same process of &lt;strong&gt;which&lt;/strong&gt; command of R. With the Windows 8, the terminal command was working like the command of R. The search needs to be carried out from the home directory containing the software to be searched. For example, if Reticulate is present in D drive, searching need to be started from the top most directory of the drive to find it. If the search begins from any other drive, say C, the search will be unsuccessful.&lt;/p&gt;
+
+&lt;p&gt;But the trouble occurred, when I realised that, &amp;ldquo;which&amp;rdquo; terminal command was not present in Windows 10 and Windows 7 by default. Hence, I am currently using &lt;strong&gt;where&lt;/strong&gt; command to carry out the search for Reticulate. I have checked that it is present in all the Windows. The best part of &lt;strong&gt;where&lt;/strong&gt; command is that it can search for any entity irrespective of its current location. For example, if the current location is in C drive, an entity present in D Drive can be retrived. Therefore, it will take care of the different ways of Python installation as well as the complicated file structure of Windows.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Power of Reticulate</title>
+      <link>https://pranita-s.github.io/post/reticulate/</link>
+      <pubDate>Sun, 20 May 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://pranita-s.github.io/post/reticulate/</guid>
+      <description>&lt;p&gt;It is been two weeks, since my last post about my GSoC selection. The first task assigned to me was writing a versatile install function for R API which will be at par in terms of functionalities of Python API. Earlier during my proposal preparation, I focussed on the need of configuration details required by databases such as &lt;strong&gt;PostgreSQL&lt;/strong&gt;,&lt;strong&gt;MySQL&lt;/strong&gt;,&lt;strong&gt;SQLite&lt;/strong&gt;. For instance, they could be made available through, &lt;strong&gt;configuration file (custom made by user or default file)&lt;/strong&gt; or in absence of this file, command the &lt;strong&gt;Retriever&lt;/strong&gt; to use defaults from code base.&lt;/p&gt;
+
+&lt;p&gt;Writing code for the above workflow, which will take into account, different databases, is indeed an immaculate task. To combat such complexities, one of mentors, suggested &lt;a href=&#34;https://rstudio.github.io/reticulate/articles/introduction.html&#34; target=&#34;_blank&#34;&gt;Reticulate&lt;/a&gt; package. Its a package, that works wonders. Any package which resides in the world of Python and be imported in R and made to work in R environment.  After studying it theoretically, I was initially afraid of the execution speed, as it tries to combine two different worlds which dominate the space of Data Science. But, after giving it a number of trials, I fathomed that it executes pretty fast without any overhead, and can be incorporated directly to sync Python API and R API of &lt;strong&gt;Data Retriever&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;I studied code of &lt;strong&gt;install function&lt;/strong&gt; of Python API deeply, to ensure that direct usage of its functions through &lt;strong&gt;Reticulate&lt;/strong&gt; encompasses all the detailed tasks which are required by R API. After variety of executions for different database supports, I figured that, using &lt;strong&gt;Reticulate&lt;/strong&gt; will be a boon. Synchronization of both the APIs requires minimal code and the pace of work has increased faster than ever. The Data Retriever might require an additional layer of detection of existance of Reticulate in the R environment as well.&lt;/p&gt;
+
+&lt;p&gt;I expect to complete this task before coming weekend. In the coming week I plan to complete detection of &lt;strong&gt;Python&lt;/strong&gt; in &lt;strong&gt;Windows&lt;/strong&gt; machine for the Data Retriever.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Google Summer of Code 2018</title>
+      <link>https://pranita-s.github.io/post/gsocselection/</link>
+      <pubDate>Sat, 05 May 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://pranita-s.github.io/post/gsocselection/</guid>
+      <description>&lt;p&gt;The clock struck 9:30 pm IST on 23rd April, 2018. I had been extremely impatient for this day since I submitted my proposal for &lt;a href=&#34;https://summerofcode.withgoogle.com/&#34; target=&#34;_blank&#34;&gt;Google Summer of Code&lt;/a&gt; on 27th March 2018. I checked my dashboard on the GSoC website and it showed my status as &lt;strong&gt;Active&lt;/strong&gt;. I was flummoxed after seeing it, as I did not really know what to comprehend -  Am I selected ? or Am I not ?. I started repeatedly refreshing my email account to witness an official email from Google stating my selection. After about 20 minutes, it was as it is, no new email. Well, it were really long 30 minutes, after which I received the email and then I had the tranquil realization, I had been waiting for, &lt;strong&gt;My Project Selection&lt;/strong&gt;. Subsequently, I received &amp;ldquo;congrats&amp;rdquo; from my mentors which made me even more happier.&lt;/p&gt;
+
+&lt;p&gt;I applied for the &lt;a href=&#34;http://www.data-retriever.org/&#34; target=&#34;_blank&#34;&gt;RDataRetriever&lt;/a&gt; project under the &lt;a href=&#34;https://www.numfocus.org/&#34; target=&#34;_blank&#34;&gt;NumFocus&lt;/a&gt; umbrella. It is the R API for Data Retriever packages in Python. The Data Retriever handles downloading, pre-processing and storing of datasets in the user environment. It eases life of analysts and gives a head start by providing clean and normalized (analysis - ready) data with the goal that the users can reserve their time for studying/analyzing. I will be working on enhancing capabilities of R API and synchronizing it capabilities with the Python API.&lt;/p&gt;
+
+&lt;p&gt;The awesome part of my project is the fact that its a &lt;strong&gt;CRAN package&lt;/strong&gt;. I have used R for almost two years during my tenure at R &amp;amp; D lab of Mphasis Inc and saying that CRAN packages are the most powerful weapon of R is an understatement. Therefore, I feel privileged to be contributing for the same, which will be accessible to other R and data analysis enthusiasts.&lt;/p&gt;
+
+&lt;p&gt;The entire time period of prepping myself for GSoC to create a bespoke project proposal was a great learning exprience. I contributed to the RDataRetriever repo, had various conversations with the mentors,became enlightened of new tools, understood Open Source projects to a deeper level, and the list goes on. The exposure received from the GSoC selection process, invigorates me for a stimulating three months ahead ! I will be updating my progress through a post for elucidating my journey in GSoC 2018.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://pranita-s.github.io/talk/example-talk/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://pranita-s.github.io/talk/example-talk/</guid>
+      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>InfraGraf</title>
+      <link>https://pranita-s.github.io/project/infragraf/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://pranita-s.github.io/project/infragraf/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;I was part of this project during my tenure at Mphasis NEXT Labs as an Intern and Software Engineer.&lt;/li&gt;
+&lt;li&gt;InfraGraf® is a Big Data complex event processing engine which enables enterprises to innovate and make strategic decisions regarding their technology infrastructure through actionable insights by correlation and causation analysis structured and unstructured data. It models enterprise technology infrastructure as complex systems consisting of interconnected servers, network devices, internet of things, industrial equipment etc. The powerful machine learning and graph theory based algorithms built into the platform identifies and predicts stand-alone as well as chain of events and incidents which could be related to system warnings, failures, outages, performance, availability and sub-optimal performances.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;My Role&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Leveraging power of Apache Spark Framework -
+
+&lt;ul&gt;
+&lt;li&gt;One of the data cleaning algorithms was taking more time than expected and an optimized approach for the same was crucial. I implemented the algorithm using Apache Spark in R programming language taking advantage of its distributed and parallel execution and robust implementation.&lt;/li&gt;
+&lt;li&gt;For execution on cluster mode, I used AWS EC2 instances and S3 for storage. I also wrote python script for automating the process of cluster creation, code execution and cluster termination.&lt;/li&gt;
+&lt;li&gt;It resulted in the decrease of the run time by 20 folds and was part of the product deployment.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Pattern Extraction from sequence data -
+
+&lt;ul&gt;
+&lt;li&gt;Assigned to a team of two.&lt;/li&gt;
+&lt;li&gt;This is sub-project of the InfraGraf product. It is aimed at extracting all common patterns among given set event sequences with a minimum support and confidence. A common pattern is defined as a sequence which is subsequence among a defined minimum number of event sequences. Random walk based automata algorithm is built in C for this purpose. This algorithm is tested to give accurate results and implemented in real industrial applications.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multi-server Architecture using Raspberry Pi</title>
+      <link>https://pranita-s.github.io/project/raspberry/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://pranita-s.github.io/project/raspberry/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;This was my BE project. I was part of team of four.&lt;/li&gt;
+&lt;li&gt;There has been an upsurge observed in the number of small scale and/or home-based businesses. This has been fueled by the internet which makes it very easy to set up one and offer services from the comfort of one’s home, accompanied by the reduction in costs of hardware devices in recent times. However, there are a myriad of networking needs of such offices in order to function smoothly, and most of them are expensive. Some of the most commonly needed ones are an always online file server, an intra-organization email server, a web server and a virtual private network service to stay secure online. We look at a way to cater to these networking needs by providing a solution which is cost effective and involves very low maintenance.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Our Solution&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;To propose a fulfillment of the above requirements, we used Raspberry Pi. It is a mini computer which can be configured as Web Server, File Server, Email server and VPN at the same time. Being a cheaper alternative and having diverse capabailities, it posed as a great solution.&lt;/li&gt;
+&lt;li&gt;We carried out its performace testing in the Central Computer Lab of our college with more than 150 students using the hosted servers at the same time.&lt;/li&gt;
+&lt;li&gt;More details can be seen at &lt;a href=&#34;https://drive.google.com/file/d/1BiNaEVf0Hmayupoy5CkdALoDRIPvuvL8/view?usp=sharing&#34; target=&#34;_blank&#34;&gt;https://drive.google.com/file/d/1BiNaEVf0Hmayupoy5CkdALoDRIPvuvL8/view?usp=sharing&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Particle Swarm Optimization</title>
+      <link>https://pranita-s.github.io/project/pso/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://pranita-s.github.io/project/pso/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The goal was to exibit the power of PSO with respect to DE as a tuner for SVM. For this comparison, we (a team of three) referred the paper &amp;ldquo;Easy over hard - A Case Study on Deep Learning&amp;rdquo; for the problem statement, data and performance metrics. DE has crossover and mutation functions for its implementation. We chose PSO for comparison as it has simpler implementation which revolves around the two update equations for velocity and position of particle. We wrote the code for PSO from scratch in Python.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;After testing PSO, we found that its performance metrics are at par with those of DE. But the time it takes for convergence is more, hence it is slightly slower than DE. It can be concluded that PSO can be used instead of DE, depending on the usecase and the important factors.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;My Role&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;I contributed in the implementation of PSO algorithm in Python.&lt;/li&gt;
+&lt;li&gt;Presentation for the same can be seen at - &lt;a href=&#34;https://docs.google.com/presentation/d/1FCd6igOw26W61A8BTVw7EHkDMXfhQ50d6YtcpuwGTMc/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;https://docs.google.com/presentation/d/1FCd6igOw26W61A8BTVw7EHkDMXfhQ50d6YtcpuwGTMc/edit?usp=sharing&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Search into Conversation</title>
+      <link>https://pranita-s.github.io/project/alexa/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://pranita-s.github.io/project/alexa/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Conversational user interfaces are becoming increasingly used for a variety of research needs.
+Some are voice-activated (such as Alexa, Siri, and Google Now), but many are text-oriented chatbots appearing as assistants in the context of a larger application. Text chatbots are being considered for providing help in using our products, but also for improving the legal research experience
+Given a set of case law and judge data, answer research questions using a text-oriented, conversational interface.
+For instance, if a user asks &amp;ldquo;List cases for Judge Lucy Koh&amp;rdquo;, the system would respond with a list of cases where Judge Koh is listed as a presiding judge.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Test Cases&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;U: List cases handled by Judge ADAMS&lt;/li&gt;
+&lt;li&gt;B: THERE ARE 6 JUDGES with Llast name ADAMS and 2 JUDGES with FIRST NAME&lt;/li&gt;
+&lt;li&gt;U: Last name ADAMS&lt;/li&gt;
+&lt;li&gt;B: There are only 2 JUDGES with last name ADAMS who are currently on service with first name Henry Lee in Florida and John R in state of OHIO.&lt;/li&gt;
+&lt;li&gt;U: The one in state of OHIO&lt;/li&gt;
+&lt;li&gt;B: There were 0 cases handled by the judge&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Team&amp;rsquo;s Solution&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;We trained DialogFlow with the provided data and then integrated it with Amazon Alexa as a medium of conversation. To accomplish this we used DialogFlow&amp;rsquo;s Alexa Exporter and Amazon Developer Dashboard. After training DialogFlow with the data, we generated Alexa compatible files and then used these files to create a new skill for Alexa.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;My Role&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;I trained DialogFlow with help of the data by creating appropriate intents, entities and actions.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Solving Kinematics Word Problem</title>
+      <link>https://pranita-s.github.io/project/rnn/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://pranita-s.github.io/project/rnn/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Problem Description&lt;/strong&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Machine is fed with a Kinematics word problem. It has to parse and understand the problem, and decide which equation will be required to solve the problem from the three equations-
+
+&lt;ul&gt;
+&lt;li&gt;s = u + a*t&lt;/li&gt;
+&lt;li&gt;v*v = u*u + 2*a*s&lt;/li&gt;
+&lt;li&gt;s = u*t + 0.5*a*t*t&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;To achieve this, machine has to identify given entites such as velocity, displacement and time and also identify which entity has to be computed.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Solution&lt;/strong&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Existing related research papers concentrate on creating a question template to fit in the given entities and compute the missing one. But this prohibits the question solving capability of the machine to only free fall examples. Hence, I used RNN with LSTM network to train the machine with the questions and the label being the equation to solve it. I used NLP to make the understanding flexible as the machine has to identify details such as &amp;ldquo;at rest&amp;rdquo;,&amp;ldquo;initial velocity&amp;rdquo;,&amp;ldquo;final velocity&amp;rdquo;,&amp;ldquo;starting from rest&amp;rdquo; and also entites with different measuring  units such as metres per second, kilometers per hour etc.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Recognition&lt;/strong&gt;
+
+&lt;ul&gt;
+&lt;li&gt;I presented this work at Woman Who Code Conference held in Bangalore,India in March 2017 as a lightening talk speaker.&lt;/li&gt;
+&lt;li&gt;More details about the work can be seen at &lt;a href=&#34;https://drive.google.com/file/d/1eWJSIztqPYhv__SGZO6onDPzCbP_i8Qb/view?usp=sharing&#34; target=&#34;_blank&#34;&gt;https://drive.google.com/file/d/1eWJSIztqPYhv__SGZO6onDPzCbP_i8Qb/view?usp=sharing&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Summarization of Document</title>
+      <link>https://pranita-s.github.io/project/semantic/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://pranita-s.github.io/project/semantic/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;I was part of the team during my tenure at Mphasis NEXT Labs as a Software Engineer.&lt;/li&gt;
+&lt;li&gt;This project is aimed to summarize grammatically written English document by build a queriable directed graph based on semantics and context (i.e. Event and Action). The query on graph can retrieve information about action and its effect, and entity and its role. We adopted various NLP and text mining methodologies to build the graph and stored the graph in Neo4j for effective information retrieval.&lt;/li&gt;
+&lt;li&gt;This project involved usage of R and Python programming language, CoreNLP package for finding co-references among sentences, tokenization and POS tagging, Senna framework for Semantic Role Labelling, Semafor for frame-semantic parsing and Neo4j framework for graph querying.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;My Role&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;I implemented co-reference relationship builder using CoreNLP (which internally uses Stanford CoreNLP framework) for replacement of pronouns with their respective nouns.&lt;/li&gt;
+&lt;li&gt;I translated retrieved relationship between prominent nouns and verbs from the document pre-processing to Neo4j graph&lt;/li&gt;
+&lt;li&gt;(Team of two) We created a GUI in RShiny for a prototype demonstration&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
